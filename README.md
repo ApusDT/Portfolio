@@ -11,7 +11,7 @@
   
   <li> <a href='https://github.com/ApusDT/Convolutional-Neural-Network-CNN-Data-Augmentation'>Convolutional Neural Network CNN + Data Augmentation</a></li>
  
-  <li> <a href='https://github.com/ApusDT/-ElasticNet-Linear-Regression-Ridge-Lasso/blob/main/Exploring_ElasticNet%2C_Linear_Regression%2C_Ridge%2C_Lasso.ipynb'>Exploring ElasticNet, Linear Regression, Ridge, Lasso</a></li>
+  <li> <a href='https://github.com/ApusDT/First-approach-to-ElasticNet-Linear-Regression-Ridge-Lasso/blob/main/First_approach_to_ElasticNet%2C_Linear_Regression%2C_Ridge%2C_Lasso.ipynb'>Exploring ElasticNet, Linear Regression, Ridge, Lasso</a></li>
   
 </ul>
 </p>
