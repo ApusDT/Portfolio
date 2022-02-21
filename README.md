@@ -1,8 +1,11 @@
 <h1>Portfolio</h1>
 <h3>Salomé Sepúlveda Fontaine</h3>
-<p>All projects I am and I've been working on</p>
+<p>Major in Mathematics, Major in Education, Minor in Philosophy</p>
+<p> Master's Degree in Big Data</p>
 
-<p>
+<p>This portfolio shows all projects I am and I've been working on since I started the master's degree. </p>
+<p> A collection from the simplest to more complex analysis and tools, including NLP<p>
+  
 <ul>
   
   <li> <a href='https://github.com/ApusDT/MBTI-Personality-Predictor-using-Machine-Learning'>Myers–Briggs Type Indicator Personality Predictor using Machine Learning </a></li>
