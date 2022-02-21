@@ -3,8 +3,8 @@
 <p>Major in Mathematics, Major in Education, Minor in Philosophy</p>
 <p> Master's Degree in Big Data</p>
 
-<p>This portfolio shows all projects I am and I've been working on since I started the master's degree. </p>
-<p> A collection from the simplest to more complex analysis and tools, including NLP and the use of Keras, ScikitLearn, Pandas, Numpy, etc.<p>
+<p>This portfolio shows some projects I am and I've been working on since I started the master's degree. </p>
+<p> A collection from simple to more complex analysis and tools, including NLP and the use of Keras, ScikitLearn, Pandas, Numpy, etc.<p>
   
 <ul>
     
