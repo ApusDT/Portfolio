@@ -14,8 +14,11 @@
   <li> <a href='https://github.com/ApusDT/MBTI-Personality-Predictor-using-Machine-Learning'>Myers–Briggs Type Indicator Personality Predictor using Machine Learning, Deep Learning and Fuzzy Logic</a></li>
   
   <li> <a href='https://github.com/ApusDT/Convolutional-Neural-Network-CNN-Data-Augmentation'>Convolutional Neural Network CNN + Data Augmentation</a></li>
+  
+  <li> <a href='https://github.com/ApusDT/-Red-neuronal-de-clasificaci-n-con-Keras---FashionMnist/blob/main/Copia_de_Copia_de_Entreg_1_Red_neur_Clasificaci%C3%B3n_pynb.ipynb'>Neural Network with Fashion Mnist using Tensorflow</a></li>
  
   <li> <a href='https://github.com/ApusDT/First-approach-to-ElasticNet-Linear-Regression-Ridge-Lasso/blob/main/First_approach_to_ElasticNet%2C_Linear_Regression%2C_Ridge%2C_Lasso.ipynb'>Exploring ElasticNet, Linear Regression, Ridge, Lasso</a></li>
   
+    
 </ul>
 </p>
