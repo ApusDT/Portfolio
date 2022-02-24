@@ -1,6 +1,8 @@
 <h1>Portfolio</h1>
 <h3>Salomé Sepúlveda Fontaine</h3>
-<p>Major in Mathematics, Major in Education, Minor in Philosophy</p>
+<p>Major in Mathematics</p> 
+<p>Major in Education</p>
+<p>Minor in Philosophy</p>
 <p> Master's Degree in Big Data</p>
 
 <p>This portfolio shows some projects I am and I've been working on since I started the master's degree. More projects soon to be added </p>
