@@ -15,6 +15,8 @@
   
   <li> <a href='https://github.com/ApusDT/MBTI-Personality-Predictor-using-Machine-Learning'>Myers–Briggs Type Indicator Personality Predictor using Machine Learning, Deep Learning and Fuzzy Logic (from Kaggle)</a></li>
   
+  <li> <a href='https://github.com/ApusDT/SOM-neural-networks-and-probability-of-fraude/blob/main/SOM_neural_networks_and_probability_of_fraude.ipynb'>SOM neural networks and probability of fraude</a></li>
+  
   <li> <a href='https://github.com/ApusDT/Convolutional-Neural-Network-CNN-Data-Augmentation'>Convolutional Neural Network CNN + Data Augmentation from Cifar10 and Cinic10</a></li>
   
   <li> <a href='https://github.com/ApusDT/-Red-neuronal-de-clasificaci-n-con-Keras---FashionMnist/blob/main/Copia_de_Copia_de_Entreg_1_Red_neur_Clasificaci%C3%B3n_pynb.ipynb'>Neural Network with Fashion Mnist using Tensorflow</a></li>
