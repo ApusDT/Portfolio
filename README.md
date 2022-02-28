@@ -5,7 +5,8 @@
 <p>Minor in Philosophy</p>
 <p> Master's Degree in Big Data</p>
 
-<p>This portfolio shows some projects I am and I've been working on since I started the master's degree. More projects soon to be added </p>
+<p> I'm a mathematician who decided change path from teacher to data scientist. I love working with data, performing models, preparing the data all the process involved.</p>
+<p>This portfolio shows some projects I am and I've been working on since I started the master's degree. More projects soon to be added. </p>
 <p> A collection from simple to more complex analysis and tools, including NLP and the use of Keras, ScikitLearn, Pandas, Numpy, etc.<p>
   
 <ul>
